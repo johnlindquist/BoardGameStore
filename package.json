@@ -10,8 +10,7 @@
     "sequelize-sqlite": "^2.0.0-beta.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start:" "node server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
